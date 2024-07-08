@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
 
-data <- read.table("alpha-diversity.tsv", header = TRUE, sep = "\t")
+data <- read.table("shannon_2b.tsv", header = TRUE, sep = "\t")
 
 boxplot <- ggplot(data, aes(x = time, y = shannon_entropy, fill = time)) +
   geom_boxplot(color = "black",
@@ -22,4 +22,4 @@ print(boxplot)
 wilcox_result <- wilcox.test(shannon_entropy ~ time, data = data)
 print(wilcox_result)
 
-ggsave("shannon_withn.pdf", plot = boxplot, width = 8, height = 6, device = "pdf")
+ggsave("shannon_2b.pdf", plot = boxplot, width = 8, height = 6, device = "pdf")
