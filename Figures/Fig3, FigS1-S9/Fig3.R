@@ -1,5 +1,5 @@
 library(ggplot2)
-merge2 <- read.csv("merge_all.csv",header = TRUE, sep = "," )
+merge2 <- read.csv("16S_2b_genus.csv",header = TRUE, sep = "," )
 color_mapping <- c("shared" = "#87CEFA", "16S only" = "#FFC0CB", "2b only" = "#00FF7F")
 plot <- ggplot(merge2, aes(x = log10(col_2b), y = log10(col_16S), color = Color)) +
   theme_bw() +
