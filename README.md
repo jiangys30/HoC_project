@@ -1,2 +1,2 @@
-# Saliva_project
+# HoC_project
 Scripts for generating figures in the saliva article.
