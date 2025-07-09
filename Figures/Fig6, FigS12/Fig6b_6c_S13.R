@@ -16,7 +16,7 @@ invisible(lapply(p, usePackage))
 #--------------------------------------------------------
 # Define the filename you want to analyze
 #--------------------------------------------------------
-prefix="t9t17_"
+prefix="Fig_6b6c_2b_"
 #--------------------------------------------------
 file.opts<-list(
                 prefix=prefix,
