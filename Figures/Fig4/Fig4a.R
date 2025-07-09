@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
 
-data <- read.table("shannon_2b.tsv", header = TRUE, sep = "\t")
+data <- read.table("alpha_2b.tsv", header = TRUE, sep = "\t")
 
 boxplot <- ggplot(data, aes(x = time, y = shannon_entropy, fill = time)) +
   geom_boxplot(color = "black",
