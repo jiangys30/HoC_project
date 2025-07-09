@@ -2,7 +2,7 @@ library(reshape2)
 library(ggplot2)
 library(RColorBrewer)
 
-result <- read.table("mock_species.txt", sep = "\t", header = T)
+result <- read.table("fig2b_input.txt", sep = "\t", header = T)
 data <- melt(result, id.vars = "SampleID")
 data <- data[order(data$variable), ]
 
