@@ -1,0 +1,288 @@
+Genus,col_WMS,col_2b,Group,Color,Set
+Aggregatibacter_aphrophilus,0.097790458,0.129001696,tumor1,shared,2bWMS
+Aggregatibacter_segnis,0.020026881,0.019212223,tumor1,shared,2bWMS
+Aggregatibacter_segnis_A,0.011793028,0,tumor1,WMS(2bRAD-M) only,2bWMS
+Alloprevotella_tannerae,0,0.003424673,tumor1,2bRAD-M only,2bWMS
+Bacillus_A_bombysepticus,0.00591076,0,tumor1,WMS(2bRAD-M) only,2bWMS
+Bordetella_pertussis,0.006909424,0.007890279,tumor1,shared,2bWMS
+Capnocytophaga_gingivalis,0,0.008079945,tumor1,2bRAD-M only,2bWMS
+Cardiobacterium_hominis,0,0.001399888,tumor1,2bRAD-M only,2bWMS
+Centipeda_infelix,0,0.004464166,tumor1,2bRAD-M only,2bWMS
+Cutibacterium_acnes,0.028473349,0.019261273,tumor1,shared,2bWMS
+F0040_sp000318095,0.143243655,0.164042248,tumor1,shared,2bWMS
+F0040_sp900095835,0.005088365,0.006139313,tumor1,shared,2bWMS
+Flavimobilis_hominis,0.00104698,0,tumor1,WMS(2bRAD-M) only,2bWMS
+Halomonas_titanicae,0.002420025,0,tumor1,WMS(2bRAD-M) only,2bWMS
+Klebsiella_pneumoniae,0.006354718,0,tumor1,WMS(2bRAD-M) only,2bWMS
+Mycobacterium_tuberculosis,0.013566779,0,tumor1,WMS(2bRAD-M) only,2bWMS
+Parvimonas_micra,0.12685003,0.065168555,tumor1,shared,2bWMS
+Pauljensenia_cardiffensis,0.004590428,0.006091263,tumor1,shared,2bWMS
+Peptoanaerobacter_stomatis,0.057476345,0.056488685,tumor1,shared,2bWMS
+Peptostreptococcus_stomatis,0.162151297,0.153289454,tumor1,shared,2bWMS
+Porphyromonas_endodontalis,0.017408144,0.036169956,tumor1,shared,2bWMS
+Porphyromonas_gingivalis,0.005629105,0.004950951,tumor1,shared,2bWMS
+Prevotella_intermedia,0.045145882,0.050732612,tumor1,shared,2bWMS
+Prevotella_oris,0.007084428,0.010912472,tumor1,shared,2bWMS
+Prevotella_sp003043925,0.004011285,0.005734329,tumor1,shared,2bWMS
+Pseudomonas_aeruginosa,0.015900386,0.006757325,tumor1,shared,2bWMS
+Ralstonia_mannitolilytica,0,0.002242902,tumor1,2bRAD-M only,2bWMS
+Rothia_aeria,0.004989567,0.00535243,tumor1,shared,2bWMS
+Selenomonas_sputigena,0.00690833,0.007497052,tumor1,shared,2bWMS
+Slackia_exigua,0,0.005421795,tumor1,2bRAD-M only,2bWMS
+Sphingobium_yanoikuyae,0,0.00097527,tumor1,2bRAD-M only,2bWMS
+Streptococcus_constellatus,0.103439988,0.102473217,tumor1,shared,2bWMS
+Treponema_B_denticola,0.056759121,0.063390667,tumor1,shared,2bWMS
+Treponema_D_pectinovorum,0,0.003840503,tumor1,2bRAD-M only,2bWMS
+Treponema_medium,0.022580075,0.036056754,tumor1,shared,2bWMS
+Treponema_vincentii,0.005663539,0.005398995,tumor1,shared,2bWMS
+W11650_sp002999035,0.010787626,0.008139108,tumor1,shared,2bWMS
+Actinomyces_graevenitzii,0.001086271,0.001974292,tumor2,shared,2bWMS
+Actinomyces_oris,0.00038771,0.000640498,tumor2,shared,2bWMS
+Alloprevotella_rava,0.000403428,0.000833744,tumor2,shared,2bWMS
+Anaeroglobus_micronuciformis,0.018072358,0.019969017,tumor2,shared,2bWMS
+Bordetella_pertussis,0.000186611,0.000261049,tumor2,shared,2bWMS
+Bulleidia_moorei,0.007983267,0.008113743,tumor2,shared,2bWMS
+Bulleidia_sp900554555,0.012073983,0.017530453,tumor2,shared,2bWMS
+Campylobacter_A_concisus_T,0.012239379,0.012839104,tumor2,shared,2bWMS
+Campylobacter_A_curvus,0.003098587,0.004703046,tumor2,shared,2bWMS
+Centipeda_artemidis,0.001317057,0.002212447,tumor2,shared,2bWMS
+Comamonas_terrigena,0,6.79e-05,tumor2,2bRAD-M only,2bWMS
+Corynebacterium_striatum,0.000360494,0.000611828,tumor2,shared,2bWMS
+Cutibacterium_acnes,0.001795888,0.001507804,tumor2,shared,2bWMS
+Dialister_invisus,0.013468444,0.022454782,tumor2,shared,2bWMS
+Eikenella_corrodens,0.000221767,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Eikenella_longinqua,0.000158578,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Eubacterium_B_infirmum,0.010460335,0.011076326,tumor2,shared,2bWMS
+Eubacterium_M_brachy,0.038317433,0.040556193,tumor2,shared,2bWMS
+F0040_sp003639005,0.000255533,0.0001687,tumor2,shared,2bWMS
+Fusobacterium_animalis,0.178899353,0.094962598,tumor2,shared,2bWMS
+JABCPH02_sp013333235,0.023698403,0.022871646,tumor2,shared,2bWMS
+Klebsiella_pneumoniae,0.000710533,0.000168338,tumor2,shared,2bWMS
+Lachnoanaerobaculum_orale,0.010613237,0.013695624,tumor2,shared,2bWMS
+Lancefieldella_sp000564995,0.004268101,0.006834383,tumor2,shared,2bWMS
+Lancefieldella_sp900555335,0.000978972,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Leptotrichia_wadei,0.007303769,0.006952405,tumor2,shared,2bWMS
+Leptotrichia_wadei_A,0.003989663,0.004695113,tumor2,shared,2bWMS
+Malassezia_globosa,2.67e-05,2.18e-05,tumor2,shared,2bWMS
+Mogibacterium_diversum,0.016388011,0.018921822,tumor2,shared,2bWMS
+Mycobacterium_tuberculosis,0.000460845,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Neorhizobium_sp000757525,0,2.99e-05,tumor2,2bRAD-M only,2bWMS
+Oribacterium_asaccharolyticum,0.000407446,0.000662568,tumor2,shared,2bWMS
+Parvimonas_micra,0.107815947,0.063443394,tumor2,shared,2bWMS
+Pauljensenia_marseillensis,0,0.000419904,tumor2,2bRAD-M only,2bWMS
+Pauljensenia_meyeri,0,0.000171068,tumor2,2bRAD-M only,2bWMS
+Pauljensenia_odontolytica_B,0.00030274,0.000500278,tumor2,shared,2bWMS
+Pauljensenia_sp000411415,0.001248108,0.001758524,tumor2,shared,2bWMS
+Pauljensenia_sp000466265,0.000326255,0.000566368,tumor2,shared,2bWMS
+Pauljensenia_sp000758755,0,0.000205024,tumor2,2bRAD-M only,2bWMS
+Pauljensenia_sp001838165,0.000306584,0.000529857,tumor2,shared,2bWMS
+Pauljensenia_sp900554605,0,0.000405968,tumor2,2bRAD-M only,2bWMS
+Pauljensenia_sp900556405,0.000689436,0.001078007,tumor2,shared,2bWMS
+Pelomonas_puraquae,0,3.88e-05,tumor2,2bRAD-M only,2bWMS
+Peptoniphilus_A_harei_A,0.01967359,0.012309502,tumor2,shared,2bWMS
+Peptostreptococcus_sp900759325,0.018219423,0.012873861,tumor2,shared,2bWMS
+Porphyromonas_endodontalis,0.022551407,0.037031269,tumor2,shared,2bWMS
+Porphyromonas_gingivalis,0,0.000120498,tumor2,2bRAD-M only,2bWMS
+Prevotella_aurantiaca,0.001026029,0.000925036,tumor2,shared,2bWMS
+Prevotella_bivia,0.000264393,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Prevotella_denticola,5.52e-05,0.000359818,tumor2,shared,2bWMS
+Prevotella_disiens,0.001053279,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Prevotella_enoeca,0.002104106,0.002912289,tumor2,shared,2bWMS
+Prevotella_histicola,0.039276812,0.042995057,tumor2,shared,2bWMS
+Prevotella_intermedia,0.004968582,0.005378794,tumor2,shared,2bWMS
+Prevotella_jejuni,0.001722625,0.002884703,tumor2,shared,2bWMS
+Prevotella_melaninogenica,0.007288276,0.006873836,tumor2,shared,2bWMS
+Prevotella_melaninogenica_A,0.001002187,0.002592941,tumor2,shared,2bWMS
+Prevotella_nigrescens,0.005267115,0.004585044,tumor2,shared,2bWMS
+Prevotella_oris,0.005781935,0.008466882,tumor2,shared,2bWMS
+Prevotella_oulorum,0.009756824,0.012757838,tumor2,shared,2bWMS
+Prevotella_pallens,0.134528563,0.152152055,tumor2,shared,2bWMS
+Prevotella_pleuritidis,0,0.000396031,tumor2,2bRAD-M only,2bWMS
+Prevotella_salivae,0.034066671,0.043451588,tumor2,shared,2bWMS
+Prevotella_shahii,0.000395148,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Prevotella_sp000599605,0.000350883,0.000547419,tumor2,shared,2bWMS
+Prevotella_sp013333285,0.002653905,0.003236736,tumor2,shared,2bWMS
+Prevotella_sp013333935,0.000434056,0.000556516,tumor2,shared,2bWMS
+Prevotella_veroralis,0.000646593,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Pseudomonas_aeruginosa,0.000477691,0.000912848,tumor2,shared,2bWMS
+Pseudomonas_E_putida_L,0,3.83e-05,tumor2,2bRAD-M only,2bWMS
+Ralstonia_mannitolilytica,0.000577347,0.000554228,tumor2,shared,2bWMS
+Rothia_dentocariosa,0.000271585,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Rothia_mucilaginosa,0.000689235,0.001246588,tumor2,shared,2bWMS
+Rothia_mucilaginosa_A,0.000974168,0.001932361,tumor2,shared,2bWMS
+Rothia_mucilaginosa_B,0.00142432,0.001574433,tumor2,shared,2bWMS
+Rothia_sp001808955,0.001106457,0.002191691,tumor2,shared,2bWMS
+Salmonella_enterica,0.001656532,0.000994905,tumor2,shared,2bWMS
+Selenomonas_sputigena,0.001894032,0.003233981,tumor2,shared,2bWMS
+Shuttleworthia_satelles,0.000433995,0.000380014,tumor2,shared,2bWMS
+Slackia_exigua,0.009115679,0.015998621,tumor2,shared,2bWMS
+Sphingobium_yanoikuyae,7.1e-05,9.02e-05,tumor2,shared,2bWMS
+Sphingomonas_paucimobilis,0.000288223,0.000341764,tumor2,shared,2bWMS
+Stenotrophomonas_maltophilia_AJ,7.15e-05,9.79e-05,tumor2,shared,2bWMS
+Stomatobaculum_longum,0.011544422,0.020987334,tumor2,shared,2bWMS
+Streptococcus_anginosus,0.00081094,0.002645809,tumor2,shared,2bWMS
+Streptococcus_constellatus,0.04392161,0.049013243,tumor2,shared,2bWMS
+Streptococcus_oralis_W,0.004388285,0.005453361,tumor2,shared,2bWMS
+Streptococcus_parasanguinis,0.019798194,0.025333232,tumor2,shared,2bWMS
+Streptococcus_salivarius,0.00900759,0.012247512,tumor2,shared,2bWMS
+Tardiphaga_sp002256345,0,4.38e-05,tumor2,2bRAD-M only,2bWMS
+UBA4285_sp900542465,0,0.000789484,tumor2,2bRAD-M only,2bWMS
+Veillonella_atypica,0.088796673,0.107609534,tumor2,shared,2bWMS
+Veillonella_dispar_A,0,0.001335598,tumor2,2bRAD-M only,2bWMS
+Veillonella_parvula_A,0.002133455,0.001635411,tumor2,shared,2bWMS
+Veillonella_sp900766125,0.00192329,0,tumor2,WMS(2bRAD-M) only,2bWMS
+Veillonella_tobetsuensis,0.00119742,0.002975977,tumor2,shared,2bWMS
+Vibrio_parahaemolyticus,0.004017492,0.002479838,tumor2,shared,2bWMS
+Acinetobacter_baumannii,0.009637301,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Actinomyces_dentalis,0,0.000869915,tumor5,2bRAD-M only,2bWMS
+Alloprevotella_tannerae,0.004400581,0.004171649,tumor5,shared,2bWMS
+Bacillus_A_bombysepticus,0.012823854,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Bacteroides_heparinolyticus,0.003422833,0.003407704,tumor5,shared,2bWMS
+Bulleidia_moorei,0,0.003340385,tumor5,2bRAD-M only,2bWMS
+Cutibacterium_acnes,0.002803999,0.001617278,tumor5,shared,2bWMS
+F0040_sp900095835,0,0.001173295,tumor5,2bRAD-M only,2bWMS
+Klebsiella_pneumoniae,0.004458725,0.003466133,tumor5,shared,2bWMS
+Methylibium_petroleiphilum,0.002010485,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Mogibacterium_timidum,0,0.000698308,tumor5,2bRAD-M only,2bWMS
+Mycobacterium_tuberculosis,0.000319046,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Neisseria_elongata,0,0.000878371,tumor5,2bRAD-M only,2bWMS
+Neisseria_sp000186165,0,0.004726067,tumor5,2bRAD-M only,2bWMS
+Neisseria_subflava,0,0.005411664,tumor5,2bRAD-M only,2bWMS
+Oribacterium_asaccharolyticum,0,0.000981428,tumor5,2bRAD-M only,2bWMS
+Oribacterium_sp013394775,0.001209458,0.001174355,tumor5,shared,2bWMS
+Porphyromonas_endodontalis,0,0.00087754,tumor5,2bRAD-M only,2bWMS
+Porphyromonas_gingivalis,0,0.001597024,tumor5,2bRAD-M only,2bWMS
+Porphyromonas_pasteri,0,0.003209984,tumor5,2bRAD-M only,2bWMS
+Porphyromonas_sp000467855,0,0.000527436,tumor5,2bRAD-M only,2bWMS
+Prevotella_aurantiaca,0,0.001163341,tumor5,2bRAD-M only,2bWMS
+Prevotella_intermedia,0,0.001004948,tumor5,2bRAD-M only,2bWMS
+Prevotella_melaninogenica,0,0.001411275,tumor5,2bRAD-M only,2bWMS
+Prevotella_nanceiensis,0.002655673,0.000761933,tumor5,shared,2bWMS
+Prevotella_nigrescens,0,0.001008757,tumor5,2bRAD-M only,2bWMS
+Prevotella_oris,0.002558687,0.001421631,tumor5,shared,2bWMS
+Prevotella_pallens,0,0.000813431,tumor5,2bRAD-M only,2bWMS
+Prevotella_shahii,0,0.000422108,tumor5,2bRAD-M only,2bWMS
+Pseudomonas_aeruginosa,0.660959847,0.688381616,tumor5,shared,2bWMS
+Pseudoramibacter_alactolyticus,0,0.000502277,tumor5,2bRAD-M only,2bWMS
+Pyramidobacter_piscolens,0,0.000484725,tumor5,2bRAD-M only,2bWMS
+Ralstonia_mannitolilytica,0.001078676,0.000947159,tumor5,shared,2bWMS
+Ralstonia_sp000620465,0.002193092,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Selenomonas_sputigena,0,0.000234668,tumor5,2bRAD-M only,2bWMS
+Sphingomonas_paucimobilis,0,0.000393064,tumor5,2bRAD-M only,2bWMS
+Staphylococcus_epidermidis,0.013005852,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Stenotrophomonas_maltophilia,0.000627487,0.000465459,tumor5,shared,2bWMS
+Stenotrophomonas_maltophilia_AK,0.000491384,0.000234668,tumor5,shared,2bWMS
+Stenotrophomonas_maltophilia_F,0.102512727,0.110119141,tumor5,shared,2bWMS
+Stenotrophomonas_maltophilia_P,0.153506553,0.146759573,tumor5,shared,2bWMS
+Streptococcus_constellatus,0.014195399,0.005022841,tumor5,shared,2bWMS
+Tannerella_sp003033925,0,0.000318849,tumor5,2bRAD-M only,2bWMS
+Treponema_D_paredis,0.005128342,0,tumor5,WMS(2bRAD-M) only,2bWMS
+Abiotrophia_defectiva,0.007210446,0.016740499,tumor6,shared,2bWMS
+Abiotrophia_sp001815865,0.016104967,0.021164123,tumor6,shared,2bWMS
+Actinomyces_naeslundii,0.000526924,0.000850329,tumor6,shared,2bWMS
+Actinomyces_oris,0.005391353,0.00589458,tumor6,shared,2bWMS
+Actinomyces_oris_A,0.000575814,0.000517463,tumor6,shared,2bWMS
+Allisonella_pneumosintes,0.001636804,0.002246223,tumor6,shared,2bWMS
+Alloprevotella_tannerae,0.052233494,0.051355573,tumor6,shared,2bWMS
+Arachnia_propionica,0.041717977,0.068223814,tumor6,shared,2bWMS
+Arachnia_sp013333945,0.000525535,0.001018699,tumor6,shared,2bWMS
+Arachnia_sp900607225,0.000387548,0.000567298,tumor6,shared,2bWMS
+Bacillus_A_bombysepticus,0.004633381,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Bifidobacterium_thermophilum,0.000149715,0.000491887,tumor6,shared,2bWMS
+Bulleidia_extructa,0.010464964,0.008524281,tumor6,shared,2bWMS
+Bulleidia_moorei,0.001581194,0.001955195,tumor6,shared,2bWMS
+Bulleidia_sp900554555,0.003610253,0.004087408,tumor6,shared,2bWMS
+CAG-485_sp009775375,0,0.000128457,tumor6,2bRAD-M only,2bWMS
+Campylobacter_A_showae,0.001328605,0.001587177,tumor6,shared,2bWMS
+Campylobacter_A_showae_A,0.001005423,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Campylobacter_A_sp014253065,0.000791057,0.001346602,tumor6,shared,2bWMS
+Capnocytophaga_endodontalis,0.006614789,0.004408158,tumor6,shared,2bWMS
+Capnocytophaga_gingivalis,0.009041292,0.012269111,tumor6,shared,2bWMS
+Capnocytophaga_granulosa,0.000753863,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Capnocytophaga_leadbetteri,0.025054404,0.020769028,tumor6,shared,2bWMS
+Capnocytophaga_ochracea,0.001918755,0.001221252,tumor6,shared,2bWMS
+Capnocytophaga_sp000192225,0.002701941,0.00217428,tumor6,shared,2bWMS
+Capnocytophaga_sputigena,0.027279714,0.02210486,tumor6,shared,2bWMS
+Centipeda_noxia,0.00053413,0.00033759,tumor6,shared,2bWMS
+Corynebacterium_argentoratense,0.002475055,0.003093194,tumor6,shared,2bWMS
+Corynebacterium_durum,0.000842752,0.001319565,tumor6,shared,2bWMS
+Corynebacterium_matruchotii,0,0.000475376,tumor6,2bRAD-M only,2bWMS
+Cutibacterium_acnes,0.000986178,0.000571921,tumor6,shared,2bWMS
+Eikenella_corrodens,0.004500421,0.00677506,tumor6,shared,2bWMS
+Enterobacter_hormaechei_A,0,0.000423471,tumor6,2bRAD-M only,2bWMS
+Eubacterium_B_sulci,0.000578626,0,tumor6,WMS(2bRAD-M) only,2bWMS
+F0040_sp003639005,0.000647974,0.001271441,tumor6,shared,2bWMS
+F0040_sp900095835,0.000500291,0.000354549,tumor6,shared,2bWMS
+Filifactor_alocis,0.014140162,0.010469602,tumor6,shared,2bWMS
+Fusobacterium_polymorphum,0.037312255,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Gemella_haemolysans_A,0.012630047,0.006330131,tumor6,shared,2bWMS
+Granulicatella_adiacens,0.013753745,0.012872056,tumor6,shared,2bWMS
+Granulicatella_sp001058355,0.001181705,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Haemophilus_D_parainfluenzae,0.064577596,0.043491632,tumor6,shared,2bWMS
+Haemophilus_D_parainfluenzae_M,0.008030088,0.006921043,tumor6,shared,2bWMS
+Halomonas_titanicae,0.000295085,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Kingella_B_oralis,0,0.000563756,tumor6,2bRAD-M only,2bWMS
+Klebsiella_pneumoniae,0.000674846,0.000517659,tumor6,shared,2bWMS
+Lachnoanaerobaculum_gingivalis,0.001629318,0.001964443,tumor6,shared,2bWMS
+Lancefieldella_sp000564995,0.000429031,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Lautropia_dentalis,0.000267216,0.000476718,tumor6,shared,2bWMS
+Lautropia_mirabilis,0.01588186,0.01933502,tumor6,shared,2bWMS
+Leptotrichia_A_sp000469505,0.020712349,0.024848648,tumor6,shared,2bWMS
+Leptotrichia_A_sp001274535,0.002151763,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Metamycoplasma_salivarium,0.009559545,0.006231422,tumor6,shared,2bWMS
+Mogibacterium_diversum,0.026733258,0.033509636,tumor6,shared,2bWMS
+Moraxella_A_cinereus,0.004772449,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Moraxella_A_osloensis,0.00117123,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Mycobacterium_tuberculosis,0.00010858,0.000287029,tumor6,shared,2bWMS
+Neisseria_bacilliformis,0.003416988,0.003765735,tumor6,shared,2bWMS
+Neisseria_elongata,0.006489827,0.007457052,tumor6,shared,2bWMS
+Neisseria_mucosa_A,0.002158036,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Neisseria_potus,0.000452727,0.000373171,tumor6,shared,2bWMS
+Neisseria_sicca_A,0.003960695,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Neisseria_sicca_B,0.112396694,0.113578372,tumor6,shared,2bWMS
+Neisseria_sp000186165,0.000520496,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Neisseria_sp002237445,0.028645536,0.036823511,tumor6,shared,2bWMS
+Neisseria_subflava,0.003794379,0.004597391,tumor6,shared,2bWMS
+Oribacterium_asaccharolyticum,0.001712037,0.00313438,tumor6,shared,2bWMS
+Pauljensenia_bouchesdurhonensis,0.000399472,0.000591673,tumor6,shared,2bWMS
+Pauljensenia_sp000185285,0.003355885,0.005108976,tumor6,shared,2bWMS
+Pauljensenia_sp000758755,0.000488955,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Pauljensenia_sp001838165,0,0.000379349,tumor6,2bRAD-M only,2bWMS
+Peptidiphaga_gingivicola,0.000883238,0.001768544,tumor6,shared,2bWMS
+Peptostreptococcus_sp900759325,0.004595553,0.003638412,tumor6,shared,2bWMS
+Peptostreptococcus_stomatis,0.007495989,0.011362367,tumor6,shared,2bWMS
+Porphyromonas_catoniae,0.000582599,0.000879465,tumor6,shared,2bWMS
+Porphyromonas_pasteri,0.005985252,0.009789237,tumor6,shared,2bWMS
+Prevotella_baroniae,0.002759056,0.003272917,tumor6,shared,2bWMS
+Prevotella_conceptionensis,0.000274271,0.000310436,tumor6,shared,2bWMS
+Prevotella_intermedia,0.001084631,0.002106815,tumor6,shared,2bWMS
+Prevotella_jejuni,0.001769247,0.001594141,tumor6,shared,2bWMS
+Prevotella_koreensis,0.000305733,0.000559083,tumor6,shared,2bWMS
+Prevotella_loescheii,0.00352365,0.004891752,tumor6,shared,2bWMS
+Prevotella_maculosa,0.002963984,0.004073677,tumor6,shared,2bWMS
+Prevotella_marshii,0.000699781,0.001115114,tumor6,shared,2bWMS
+Prevotella_melaninogenica,0.002595021,0.002589293,tumor6,shared,2bWMS
+Prevotella_nanceiensis,0.027142684,0.028202594,tumor6,shared,2bWMS
+Prevotella_nigrescens,0.001087257,0.001318367,tumor6,shared,2bWMS
+Prevotella_oris,0.012859063,0.015208618,tumor6,shared,2bWMS
+Prevotella_pallens,0.003114673,0.002581126,tumor6,shared,2bWMS
+Prevotella_sp000163055,0.002365141,0.002306355,tumor6,shared,2bWMS
+Prevotella_sp002305235,0,0.001288024,tumor6,2bRAD-M only,2bWMS
+Prevotella_sp013333935,0.000337675,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Prevotella_sp900113305,0.000385914,0.000714959,tumor6,shared,2bWMS
+Pseudoclavibacter_A_caeni,0,0.000170755,tumor6,2bRAD-M only,2bWMS
+Ralstonia_mannitolilytica,0.00039589,0.000389146,tumor6,shared,2bWMS
+Rothia_aeria,0.006914639,0.00796904,tumor6,shared,2bWMS
+Saccharimonas_sp010202265,0.001267143,0.001470185,tumor6,shared,2bWMS
+Slackia_exigua,0.004394353,0.005997185,tumor6,shared,2bWMS
+Sphingomonas_paucimobilis,0.000104753,0.000204025,tumor6,shared,2bWMS
+Streptococcus_gordonii,0.016545449,0.015506765,tumor6,shared,2bWMS
+Streptococcus_intermedius,0,0.004617985,tumor6,2bRAD-M only,2bWMS
+Streptococcus_sanguinis,0.003064234,0.008289007,tumor6,shared,2bWMS
+Streptococcus_sanguinis_H,0.009712101,0.00603707,tumor6,shared,2bWMS
+UBA4179_sp002849245,0.000182242,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Veillonella_atypica,0,0.001397764,tumor6,2bRAD-M only,2bWMS
+Veillonella_parvula,0.008549864,0,tumor6,WMS(2bRAD-M) only,2bWMS
+Veillonella_parvula_A,0.224868562,0.236976805,tumor6,shared,2bWMS
+Veillonella_sp900757715,0.002677427,0.003506106,tumor6,shared,2bWMS
+Vibrio_parahaemolyticus,0.000403433,0,tumor6,WMS(2bRAD-M) only,2bWMS
