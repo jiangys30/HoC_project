@@ -1,6 +1,6 @@
-meta <- read.table("metadata.txt", sep = "\t", header = T, row.names = 1)
+meta <- read.table("Fig7b_input_2b_metadata.txt", sep = "\t", header = T, row.names = 1)
 
-pcs <- read.table("2b_pcs_BC.txt", header = TRUE, sep = "\t", row.names = 1)
+pcs <- read.table("2Fig7b_input_2b_pcs_BC.txt", header = TRUE, sep = "\t", row.names = 1)
 colnames(pcs) <- c("PC1", "PC2")
 
 pcs <- pcs[rownames(meta), ]
