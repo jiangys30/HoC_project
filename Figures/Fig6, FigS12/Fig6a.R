@@ -2,7 +2,7 @@ library(ggplot2)
 library(vegan)
 
 # import feature table
-ftt <- read.csv("reads_count_for_distboxplot.csv", header = TRUE, row.names=1, sep = ",")
+ftt <- read.csv("Fig6a_input.csv", header = TRUE, row.names=1, sep = ",")
 
 # delete redundant columns
 ftt <- t((ftt[rowSums(ftt[, -1]) != 0, ]))
