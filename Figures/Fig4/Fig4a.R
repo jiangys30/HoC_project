@@ -3,9 +3,9 @@ library(dplyr)
 
 data <- read.table("alpha_2b.tsv", header = TRUE, sep = "\t")
 
-boxplot <- ggplot(data, aes(x = time, y = shannon_entropy, fill = time)) +
+boxplot <- ggplot(data, aes(x = periodontal_health, y = shannon_entropy, fill = periodontal_health)) +
   geom_boxplot(color = "black",
-               fill = c("#7CCD7C", "#87CEEB"),
+               fill = c("#F4B0AB", "#B0C9DE"),
                linetype = "solid",
                size = 0.3) +
   labs(x = "", y = "Shannon Entropy") +
@@ -19,7 +19,5 @@ boxplot <- boxplot + scale_x_discrete(labels = function(x) sapply(strwrap(x, wid
 
 print(boxplot)
 
-wilcox_result <- wilcox.test(shannon_entropy ~ time, data = data)
+wilcox_result <- wilcox.test(shannon_entropy ~ periodontal_health, data = data)
 print(wilcox_result)
-
-ggsave("shannon_2b.pdf", plot = boxplot, width = 8, height = 6, device = "pdf")
