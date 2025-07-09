@@ -13,7 +13,7 @@ dm <- vegdist(ftt, method="bray")
 dm <- as.matrix(dm)
 
 # import metadata as variable
-meta <- read.csv("meta.csv", header = TRUE, row.names=1, sep = ",")
+meta <- read.csv("Fig6a_input_meta.csv", header = TRUE, row.names=1, sep = ",")
 time <- as.factor(meta[, 7])
 host <- as.factor(meta[, 8])
 DistBoxplot(dm, group = time, group_name="AMPM_", dm_name="BC", IndividualID = host)
