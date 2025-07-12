@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
 
-data <- read.csv("2bRADM_microbial_3bins.csv") %>%
+data <- read.csv("FigS11_input_2b.csv") %>%
   mutate(depth_factor = factor(depth, levels = sort(unique(depth))))
 
 median_data <- data %>%
